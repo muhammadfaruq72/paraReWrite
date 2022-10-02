@@ -33,4 +33,4 @@ def rewrite(sentence):
     return LinesWithNum
 
 
-#print(rewrite("This is something which i cannot understand at all"))
+print(rewrite("This is something which i cannot understand at all"))
